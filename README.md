@@ -1,0 +1,1 @@
+# swisstronik-6.sh
